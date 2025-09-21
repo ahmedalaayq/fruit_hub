@@ -1,16 +1,8 @@
-# fruit_hub
+### Important Resources
 
-A new Flutter project.
+# [GitHub Repo Link] (https://github.com/tharwatsamy/fruits_hub)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Figma Design Link] (https://www.figma.com/design/oWaxzgl17Hgn50ihv1dM8I/FruitHUB-app?node-id=12-11097&t=wkGB0iyRaGW14Gwh-0)
+[Vs Code Extensions] (https://www.youtube.com/watch?v=htiUiuMkxN0)
+[Vs Code Free Gems] (https://www.youtube.com/watch?v=sOgqctXopfo&t=43s)
+[Localization] (https://www.youtube.com/watch?v=DMmvd5LAHuA&t=99s)
