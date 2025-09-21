@@ -6,6 +6,6 @@ class Assets {
   static const String imagesPlant = 'assets/images/plant.svg';
   static const String imagesSplashBottom = 'assets/images/splash_bottom.svg';
   static const String imagesSplashIcon = 'assets/images/splash_icon.svg';
-  static const String resourcesResources = 'assets/resources/resources.md';
+  static const String onboardingBg = 'assets/images/onboarding_bg.svg';
 
 }
