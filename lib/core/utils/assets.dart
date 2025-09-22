@@ -2,10 +2,21 @@
 class Assets {
   Assets._();
 
-  static const String imagesIcon = 'assets/images/icon.png';
+  static const String iconsAppIcon =
+      'assets/images/icons/app_icon.png';
+  static const String imagesPageViewItemBg1 =
+      'assets/images/page_view_item-bg1.svg';
+  static const String imagesPageViewItemBg2 =
+      'assets/images/page_view_item-bg2.svg';
+  static const String imagesPageViewItemImage1 =
+      'assets/images/page_view_item-image1.svg';
+  static const String imagesPageViewItemImage2 =
+      'assets/images/page_view_item-image2.svg';
   static const String imagesPlant = 'assets/images/plant.svg';
-  static const String imagesSplashBottom = 'assets/images/splash_bottom.svg';
-  static const String imagesSplashIcon = 'assets/images/splash_icon.svg';
-  static const String onboardingBg = 'assets/images/onboarding_bg.svg';
-
+  static const String imagesSplashBottom =
+      'assets/images/splash_bottom.svg';
+  static const String imagesSplashIcon =
+      'assets/images/splash_icon.svg';
+  static const String resourcesResources =
+      'assets/resources/resources.md';
 }
